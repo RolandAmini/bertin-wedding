@@ -46,7 +46,7 @@ export default function WeddingInvitation() {
 
       {/* Carte flottante au centre */}
       <div className="relative z-10 w-full max-w-md">
-        <div className="bg-white/95 mt-50 mb-5 backdrop-blur-sm rounded-3xl shadow-2xl p-8 relative overflow-hidden">
+        <div className="bg-white/95 mt-70 mb-2 backdrop-blur-sm rounded-3xl shadow-2xl p-8 relative overflow-hidden">
           {/* Motifs floraux décoratifs */}
           <div className="absolute top-0 right-0 w-32 h-32 bg-rose-100 rounded-full -mr-16 -mt-16 opacity-50" />
           <div className="absolute bottom-0 left-0 w-24 h-24 bg-pink-100 rounded-full -ml-12 -mb-12 opacity-50" />
